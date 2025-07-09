@@ -1,0 +1,52 @@
+[
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Product_Categories.csv",
+        "ttt" : "AdventureWorks_Product_Categories",
+        "t_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Calendar.csv",
+        "ttt" : "AdventureWorks_Calendar",
+        "t_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Customers.csv",
+        "ttt" : "AdventureWorks_Customers",
+        "t_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Product_Subcategories.csv",
+        "ttt" : "Product_Subcategories",
+        "t_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Products.csv",
+        "ttt" : "AdventureWorks_Products",
+        "t_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Returns.csv",
+        "ttt" : "AdventureWorks_Returns",
+        "t_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Sales_2015.csv",
+        "ttt" : "AdventureWorks_Sales_2015",
+        "t_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Sales_2016.csv",
+        "ttt" : "AdventureWorks_Sales_2016",
+        "t_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Sales_2017.csv",
+        "ttt" : "AdventureWorks_Sales_2017",
+        "t_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "newp" : "Ashutosh03u/first-page/refs/heads/master/Azure/data/AdventureWorks_Territories.csv",
+        "ttt" : "AdventureWorks_Territories",
+        "t_file" : "AdventureWorks_Territories.csv"
+    }
+]
